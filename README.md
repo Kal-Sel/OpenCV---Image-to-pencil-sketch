@@ -14,4 +14,9 @@ If you search on the Internet, you might stumble upon the following common proce
 
 4. Blend the grayscale image from step 1 with the blurred negative from step 3 using a color dodge.
 
+
+
 After using this procedure, we get an output like this:
+
+
+![alt text](https://github.com/Kal-Sel/OpenCV---Image-to-pencil-sketch/blob/master/Opencv.png "Coloured to pencil sketch")
